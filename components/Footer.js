@@ -4,7 +4,7 @@ const Footer = () => {
       <p className=" flex items-center justify-center mb-4">
         Checkout The{" "}
         <a
-          href="https://github.com/ashrafchowdury/Readme-file-maker"
+          href="https://github.com/CodingGeek2024/Readme-file-maker"
           target="_blank"
           className=" font-bold flex ml-2 underline"
         >
@@ -18,7 +18,7 @@ const Footer = () => {
       <p className=" flex items-center justify-center">
         Follow On{" "}
         <a
-          href="https://twitter.com/Ashraf_365"
+          href="https://twitter.com/"
           target="_blank"
           className=" font-bold flex ml-2 underline"
         >
@@ -26,7 +26,7 @@ const Footer = () => {
             src="https://img.icons8.com/fluency/48/000000/twitter.png"
             className=" w-[25px]"
           />
-          @Ashraf_365
+          @shubham_kumar
         </a>
       </p>
     </footer>
