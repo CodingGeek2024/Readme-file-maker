@@ -23,7 +23,7 @@ export default function Document() {
         <title>Create Readme.md file for your Projects</title>
         <meta
           name="description"
-          content="Hi, My name is Ashraf Chowdury and I am a Front-End Developer. I like to build excellent Web applications using Javascript and React.js. Currently, I am focused on empowering myself by learning some new technologies that will help me to better myself in my future journey."
+          content="Hi, My name is Shubham Kumar and I am a Front-End Developer. I like to build excellent Web applications using Javascript and React.js. Currently, I am focused on empowering myself by learning some new technologies that will help me to better myself in my future journey."
         />
 
         {/**FavIcon */}
